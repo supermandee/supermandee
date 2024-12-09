@@ -17,8 +17,8 @@
 
 ### 📚 My Latest Medium Articles
 
-[![Transforming Self-Care: How I Use ChatGPT for Reflective Journaling](images/reflective-journaling-thumbnail.png)](https://mandynicolehong.medium.com/transforming-self-care-how-i-use-chatgpt-for-reflective-journaling-bce5cdaf8c2a)
+[![Deep Diving into Success: Lessons from Freediving](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*tTFtGFyh8jEKx8cd)](https://mandynicolehong.medium.com/deep-diving-into-success-lessons-from-freediving-b161af6c62e3)
 
-[![Deep Diving into Success: Lessons from Freediving](images/freediving-lessons-thumbnail.png)](https://mandynicolehong.medium.com/deep-diving-into-success-lessons-from-freediving-b161af6c62e3)
+[![Transforming Self-Care: How I Use ChatGPT for Reflective Journaling](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*EIyvHCZy5BXtaLNak9fPRw.png)](https://mandynicolehong.medium.com/transforming-self-care-how-i-use-chatgpt-for-reflective-journaling-bce5cdaf8c2a)
 
 
