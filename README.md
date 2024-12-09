@@ -17,7 +17,9 @@
 
 ### 📚 My Latest Medium Articles
 
-<div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<div style="margin-right: 20px; text-align: center;">
   <a href="https://mandynicolehong.medium.com/deep-diving-into-success-lessons-from-freediving-b161af6c62e3">
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*tTFtGFyh8jEKx8cd" alt="Deep Diving into Success: Lessons from Freediving" width="300">
   </a>
@@ -25,10 +27,12 @@
   A reflective dive into the lessons freediving has taught me about success and personal growth.</p>
 </div>
 
-<div>
+<div style="margin-left: 20px; text-align: center;">
   <a href="https://mandynicolehong.medium.com/transforming-self-care-how-i-use-chatgpt-for-reflective-journaling-bce5cdaf8c2a">
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*EIyvHCZy5BXtaLNak9fPRw.png" alt="Transforming Self-Care: How I Use ChatGPT for Reflective Journaling" width="300">
   </a>
   <p><b>Transforming Self-Care: How I Use ChatGPT for Reflective Journaling</b><br>
   Discover how AI is reshaping my journaling routine, fostering mindfulness and reflection.</p>
+</div>
+
 </div>
