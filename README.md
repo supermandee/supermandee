@@ -8,7 +8,7 @@
 ✍️ I occasionally write about my projects, fun discoveries, and lessons learned along the way.
 
 🎵 **When I'm not coding**:  
-- 🏊‍♀️ Freediver  
+- 🤿 Freediver  
 - 🏃‍♀️ Training for Triathlons (goal: complete an Ironman in 2029!)  
 - 🎶 Attending music festivals  
 
