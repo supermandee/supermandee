@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Mandy! 👋
 
-<!--
-**supermandee/supermandee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Marketing Data Scientist** specializing in **Media Mix Modeling**  
+🎓 Studied [Radio-Television-Film](https://rtf.utexas.edu/) and **Marketing** at the University of Texas at Austin 🤘  
+🚀 Learning **Development** and **Product Management** with the help of AI — an **AI-Assisted Developer** in progress!
 
-Here are some ideas to get you started:
+📚 Check out my blog: [Mandy's Blog on Medium](https://mandynicolehong.medium.com/)  
+✍️ I occasionally write about my projects, fun discoveries, and lessons learned along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎵 **When I'm not coding**:  
+- 🏊‍♀️ Freediver  
+- 🏃‍♀️ Training for Triathlons (goal: complete an Ironman in 2029!)  
+- 🎶 Attending music festivals  
+
+<!-- GitHub stats -->
+![Mandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
