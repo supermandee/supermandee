@@ -1,10 +1,10 @@
 ### Hi, I'm Mandy! 👋
 
 🎯 I am a **Marketing Data Scientist** specializing in **Media Mix Modeling**  
-🎓 Studied [Radio-Television-Film](https://rtf.utexas.edu/) and **Marketing** at the University of Texas at Austin 🤘  
+🎓 Studied [Radio-Television-Film](https://rtf.utexas.edu/) and [Marketing](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-marketing/) at the University of Texas at Austin 🤘  
 🚀 Learning **Development** and **Product Management** with the help of AI — an **AI-Assisted Developer** in progress!
 
-📚 Check out my blog: [Mandy's Blog on Medium](https://mandynicolehong.medium.com/)  
+📚 Check out my blog on [Medium](https://mandynicolehong.medium.com/)  
 ✍️ I occasionally write about my projects, fun discoveries, and lessons learned along the way.
 
 🎵 **When I'm not coding**:  
