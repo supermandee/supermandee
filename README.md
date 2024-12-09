@@ -1,6 +1,6 @@
 ### Hi, I'm Mandy! 👋
 
-🎯 **Marketing Data Scientist** specializing in **Media Mix Modeling**  
+🎯 I am a **Marketing Data Scientist** specializing in **Media Mix Modeling**  
 🎓 Studied [Radio-Television-Film](https://rtf.utexas.edu/) and **Marketing** at the University of Texas at Austin 🤘  
 🚀 Learning **Development** and **Product Management** with the help of AI — an **AI-Assisted Developer** in progress!
 
