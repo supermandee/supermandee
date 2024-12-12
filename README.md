@@ -15,6 +15,9 @@
 <!-- GitHub stats -->
 ![Mandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supermandee&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
+<!-- GitHub Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supermandee&layout=compact&theme=radical)
+
 ### 📚 My Latest Medium Articles
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
