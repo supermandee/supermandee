@@ -21,7 +21,7 @@
 
   <div style="text-align: center; margin: 10px;">
     <a href="https://medium.com/@mandynicolehong/how-i-used-gen-ai-chatgpt-and-claude-to-build-a-spotify-ai-assistant-from-scratch-e7ae6ff5824f">
-      <img src="[https://miro.medium.com/v2/resize:fit:1400/format:webp/0*tTFtGFyh8jEKx8cd](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UBS9BocCQCHKuwMYZdMz1Q.png)" alt="How I Used Gen AI (ChatGPT and Claude) to Build a Spotify AI Assistant from Scratch" width="300">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UBS9BocCQCHKuwMYZdMz1Q.png" alt="How I Used Gen AI (ChatGPT and Claude) to Build a Spotify AI Assistant from Scratch" width="300">
     </a>
     <p><b>How I Used Gen AI (ChatGPT and Claude) to Build a Spotify AI Assistant from Scratch</b><br>
     Discover how I leveraged generative AI tools to create a personalized Spotify assistant, overcoming challenges and building a functional application from scratch.</p>
