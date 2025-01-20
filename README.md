@@ -20,6 +20,18 @@
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
   <div style="text-align: center; margin: 10px;">
+    <a href="https://medium.com/@mandynicolehong/how-i-used-gen-ai-chatgpt-and-claude-to-build-a-spotify-ai-assistant-from-scratch-e7ae6ff5824f">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*tTFtGFyh8jEKx8cd" alt="How I Used Gen AI (ChatGPT and Claude) to Build a Spotify AI Assistant from Scratch" width="300">
+    </a>
+    <p><b>How I Used Gen AI (ChatGPT and Claude) to Build a Spotify AI Assistant from Scratch</b><br>
+    Discover how I leveraged generative AI tools to create a personalized Spotify assistant, overcoming challenges and building a functional application from scratch.</p>
+  </div>
+  
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+
+  <div style="text-align: center; margin: 10px;">
     <a href="https://mandynicolehong.medium.com/deep-diving-into-success-lessons-from-freediving-b161af6c62e3">
       <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*tTFtGFyh8jEKx8cd" alt="Deep Diving into Success: Lessons from Freediving" width="300">
     </a>
