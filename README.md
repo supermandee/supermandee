@@ -21,7 +21,7 @@
 
   <div style="text-align: center; margin: 10px;">
     <a href="https://medium.com/@mandynicolehong/automating-excel-powerpoint-built-a-react-app-in-8-hours-with-ai-no-frontend-experience-561ed41da8a8">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UBS9BocCQCHKuwMYZdMz1Q.png" alt="Automating Excel & PowerPoint: Built a React App in 8 Hours with AI (No Frontend Experience)" width="300">
+      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KWh-JN3-2rdNIaKA8jaRVg.png" alt="Automating Excel & PowerPoint: Built a React App in 8 Hours with AI (No Frontend Experience)" width="300">
     </a>
     <p><b>Automating Excel & PowerPoint: Built a React App in 8 Hours with AI (No Frontend Experience)</b><br>
     I built a React dashboard in 8 hours using AI to automate Excel-to-PowerPoint workflows, eliminating manual errors and streamlining data analysis.</p>
