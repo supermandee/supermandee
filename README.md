@@ -1,6 +1,7 @@
 ### Hi, I'm Mandy! 👋
 
 🎯 I am a **Marketing Data Scientist** 
+
 🎓 Studied [Radio-Television-Film](https://rtf.utexas.edu/) and [Marketing](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-marketing/) at the University of Texas at Austin 🤘  
 🚀 Learning **Development** and **Product Management** with the help of AI — an **AI-Assisted Developer** in progress!
 
