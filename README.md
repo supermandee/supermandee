@@ -38,7 +38,8 @@
     <p><b>How I Used Gen AI (ChatGPT and Claude) to Build a Spotify AI Assistant from Scratch</b><br>
     Discover how I leveraged generative AI tools to create a personalized Spotify assistant, overcoming challenges and building a functional application from scratch.</p>
   </div>
-  
+
+<!-- 
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -60,3 +61,4 @@
   </div>
 
 </div>
+-->
