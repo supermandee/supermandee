@@ -2,12 +2,12 @@
 
 🎯 I am a **Marketing Data Scientist**                                                                           
 🎓 Studied [Radio-Television-Film](https://rtf.utexas.edu/) and [Marketing](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-marketing/) at the University of Texas at Austin 🤘  
-🚀 Learning **Development** and **Product Management** with the help of AI — an **AI-Assisted Developer** in progress!
+🚀 I love building things with AI! 
 
 📚 Check out my blog on [Medium](https://mandynicolehong.medium.com/)  
 ✍️ I occasionally write about my projects, fun discoveries, and lessons learned along the way.
 
-🎵 **When I'm not coding**:  
+🎵 **When I'm not vibe coding**:  
 - 🤿 Freediver  
 - 🏃‍♀️ Training for Triathlons (goal: complete an Ironman in 2029!)  
 - 🎶 Attending music festivals  
@@ -17,48 +17,24 @@
 
 ### 📚 My Latest Medium Articles
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
-  <div style="text-align: center; margin: 10px;">
-    <a href="https://medium.com/@mandynicolehong/automating-excel-powerpoint-built-a-react-app-in-8-hours-with-ai-no-frontend-experience-561ed41da8a8">
-      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KWh-JN3-2rdNIaKA8jaRVg.png" alt="Automating Excel & PowerPoint: Built a React App in 8 Hours with AI (No Frontend Experience)" width="300">
+  <div style="text-align: center; margin: 10px; max-width: 320px;">
+    <a href="https://mandynicolehong.medium.com/i-built-an-ai-version-of-my-dad-to-keep-his-legacy-alive-fda005e04df2">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ANbsUjAtW2Td1jawAycx5g.png" 
+           alt="I Built an AI Version of My Dad to Keep His Legacy Alive" width="300">
     </a>
-    <p><b>Automating Excel & PowerPoint: Built a React App in 8 Hours with AI (No Frontend Experience)</b><br>
-    I built a React dashboard in 8 hours using AI to automate Excel-to-PowerPoint workflows, eliminating manual errors and streamlining data analysis.</p>
+    <p><b>I Built an AI Version of My Dad to Keep His Legacy Alive</b><br>
+    How I used GenAI, LangChain, Baidu AI Cloud, OpenAI, and ElevenLabs to preserve my father's life’s work and voice in an interactive AI legacy.</p>
   </div>
 
-  </div>
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-
-  <div style="text-align: center; margin: 10px;">
+  <div style="text-align: center; margin: 10px; max-width: 320px;">
     <a href="https://medium.com/@mandynicolehong/how-i-used-gen-ai-chatgpt-and-claude-to-build-a-spotify-ai-assistant-from-scratch-e7ae6ff5824f">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UBS9BocCQCHKuwMYZdMz1Q.png" alt="How I Used Gen AI (ChatGPT and Claude) to Build a Spotify AI Assistant from Scratch" width="300">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UBS9BocCQCHKuwMYZdMz1Q.png"
+           alt="How I Used Gen AI to Build a Spotify AI Assistant from Scratch" width="300">
     </a>
-    <p><b>How I Used Gen AI (ChatGPT and Claude) to Build a Spotify AI Assistant from Scratch</b><br>
-    Discover how I leveraged generative AI tools to create a personalized Spotify assistant, overcoming challenges and building a functional application from scratch.</p>
-  </div>
-
-<!-- 
-</div>
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-
-  <div style="text-align: center; margin: 10px;">
-    <a href="https://mandynicolehong.medium.com/deep-diving-into-success-lessons-from-freediving-b161af6c62e3">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*tTFtGFyh8jEKx8cd" alt="Deep Diving into Success: Lessons from Freediving" width="300">
-    </a>
-    <p><b>Deep Diving into Success: Lessons from Freediving</b><br>
-    A reflective dive into the lessons freediving has taught me about success and personal growth.</p>
-  </div>
-
-  <div style="text-align: center; margin: 10px;">
-    <a href="https://mandynicolehong.medium.com/transforming-self-care-how-i-use-chatgpt-for-reflective-journaling-bce5cdaf8c2a">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*EIyvHCZy5BXtaLNak9fPRw.png" alt="Transforming Self-Care: How I Use ChatGPT for Reflective Journaling" width="300">
-    </a>
-    <p><b>Transforming Self-Care: How I Use ChatGPT for Reflective Journaling</b><br>
-    Discover how AI is reshaping my journaling routine, fostering mindfulness and reflection.</p>
+    <p><b>How I Used Gen AI to Build a Spotify AI Assistant from Scratch</b><br>
+    The story of building a fully personalized Spotify assistant from the ground up using ChatGPT, Claude, and a weekend of experimentation.</p>
   </div>
 
 </div>
--->
