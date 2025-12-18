@@ -8,7 +8,7 @@
 
 fuelOS — Co-founder & Chief Bug Officer (CBO) 🐛
 A wellness app that makes health tracking feel invisible by removing friction through thoughtful design and AI-powered nutrition tracking.
-🌐 https://fuelos.site
+🌐 Join our beta testing program! https://fuelos.site/beta
 
 📚 Check out my blog on [Medium](https://mandynicolehong.medium.com/)  
 ✍️ I occasionally write about my projects, fun discoveries, and lessons learned along the way.
